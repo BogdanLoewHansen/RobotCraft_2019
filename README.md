@@ -4,8 +4,9 @@ Work done during RobotCraft 2019 internship
 These packags contain basic framework to solve a simple wall maze with the RobotCraft robot (powered by Arduino Mega 2560
 and Raspberry Pi 3) in simulator and in the real world.
 
-# Submodule desctiptions
-## Maze solving in the Stage Simulator
+## Submodule descriptions
+### Maze solving in the Stage Simulator
+
 ### robotcraft_maze
 Solves the maze using wall following algorithm while also mapping the maze using 2D RPlidar compatible with ROS.
 
@@ -15,7 +16,7 @@ Solves the maze using wave propagation algorithm to compute the shortest path, u
 ### robotcraft2019_driver_g09
 A square following algorithm can be tested in the Stage simulator, uses rotation and line-following control laws.
 
-## Maze solving with the real robot running on Raspberry Pi 3 and Arduino
+### Maze solving with the real robot running on Raspberry Pi 3 and Arduino
 ### robotcraft_maze_real
 Solves the maze using wall following algorithm and ultrasonic distance sensors while also mapping the maze using 2D RPlidar compatible with ROS.
 
