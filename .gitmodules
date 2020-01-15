@@ -1,0 +1,12 @@
+[submodule "robotcraft_maze"]
+	path = robotcraft_maze
+	url = git@github.com:BogdanLoewHansen/robotcraft_maze.git
+[submodule "controllMT"]
+	path = controllMT
+	url = git@github.com:BogdanLoewHansen/controllMT.git
+[submodule "robotcraft_maze_pro"]
+	path = robotcraft_maze_pro
+	url = git@github.com:BogdanLoewHansen/robotcraft_maze_pro.git
+[submodule "robotcraft_maze_pro_real_amcl"]
+	path = robotcraft_maze_pro_real_amcl
+	url = git@github.com:BogdanLoewHansen/robotcraft_maze_pro_real_amcl.git
