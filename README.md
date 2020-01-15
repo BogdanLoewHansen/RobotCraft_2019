@@ -29,5 +29,5 @@ Solves the maze using wave propagation algorithm to compute the shortest path, u
 ### controllMT
 Motor control package, runs on Arduino Mega 2560, intefaces with Raspberry Pi 3 using rosserial package. Includes model based and standard PI controllers for speed control of the two wheel motors.
 
-### controllMT
+### controllMT_final
 final version of controllMT
